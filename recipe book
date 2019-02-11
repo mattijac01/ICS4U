@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       <style>
+           .Recipe1{
+               color:red;
+           }
+           .Recipe2{
+               color:green;
+           }
+       </style>
+        <h1>Matteo's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+        <li><a href="#Recipe1">Grilled Cheese Sandwich</a></li>
+        <li><a href="#Recipe2"></a></li>
+        </ol>
+
+        <h2 class="Recipe1">Grilled Cheese Sandwich</h2>
+        
+        <ul>
+            <li>Time: 5 - 10 Minutes</li>
+            <li>Serves: One Person</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Slices of Bread</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Cheese</td>
+                    <td>As much as you want</td>
+                </tr>
+                <tr>
+                    <td>Butter</td>
+                    <td>As much as you want</td>
+                </tr>
+            </tbody>
+        </table>
+        
+<p class = "Recipe1"><strong>Step 1:</strong> Heat 1 tablespoon salted butter in a cast-iron or nonstick skillet over medium-low heat.
+</p>
+<p class="Recipe1"><strong>Step 2:</strong> Press the sandwich slightly and place it in the skillet. Cook until golden on the bottom, 3 to 5 minutes.
+</p>
+<p class="Recipe1"><strong>Step 3:</strong> Flip, adding more butter to the pan if needed, and cook until the other side is golden and the cheese melts, 3 to 5 more minutes.
+</p>
+    <p>Source: <a href="https://www.foodnetwork.com/recipes/articles/50-grilled-cheese">Food Network</a></p>
+<h2 class = "Recipe2">Scrambled Eggs</h2>
+        
+        <ul>
+            <li>Time: 5 - 10 Minutes</li>
+            <li>Serves: One Person</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Eggs</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Salt</td>
+                    <td>A Pinch</td>
+                </tr>
+                <tr>
+                    <td>Pepper</td>
+                    <td>A Pinch</td>
+                </tr>
+                <tr>
+                    <td>Butter</td>
+                    <td>1 Tablespoon</td>
+                </tr>
+            </tbody>
+        </table>
+        
+<p class="Recipe2"><strong>Step 1:</strong> Whisk eggs, salt and pepper in small bowl. Melt butter in non-stick skillet over medium heat.
+</p>
+<p class="Recipe2"><strong>Step 2:</strong> Pour in egg mixture and reduce heat to medium-low. As eggs begin to set, gently move spatula across bottom and side of skillet to form large, soft curds.
+</p>
+<p class="Recipe2"><strong>Step 3:</strong> Cook until eggs are thickened and no visible liquid egg remains, but the eggs are not dry.
+</p>
+
+
+    <p>Source: <a href="https://www.eggs.ca/recipes/simple-scrambled-eggs#">Eggs.ca</a></p>
+    
+    </body>
+</html>
